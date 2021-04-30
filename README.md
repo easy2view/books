@@ -1,7 +1,7 @@
 ### 禁书下载
 
 ---
-##### 友情链接：[免翻墙看禁闻](https://github.com/gfw-breaker/banned-news3) &nbsp;|&nbsp; [翻墙软件下载](https://github.com/gfw-breaker/nogfw)
+##### 友情链接：[免翻墙看禁闻](https://github.com/gfw-breaker/epoch-news) &nbsp;|&nbsp; [翻墙软件下载](https://github.com/gfw-breaker/nogfw)
 
 | 书名 | 下载 | 下载 | 下载 |
 |---|---|---|---|
