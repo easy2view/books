@@ -5,18 +5,18 @@
 
 | 书名 | 下载 | 下载 | 下载 |
 |---|---|---|---|
+| 《九评共产党》 | [TXT格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/9ping.txt) | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/9ping.pdf) | [EPUB格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/9ping.epub) |
+| 《二十一世纪的古拉格真相》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/glg.pdf) | [EPUB格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/glg.epub) |
+| 《明慧二十周年报告》 | - | - | [EPUB格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/mh-20.epub) |
 | 《墓碑 – 中国六十年代大饥荒纪实》 | [TXT格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/grave-stone.txt) | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/grave-stone.pdf) | [EPUB格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/grave-stone.epub) |
 | 《历史的先声 – 半个世纪前的庄严承诺》 | [TXT格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/lsxs.txt) | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/lsxs.pdf) | - |
 | 《赵紫阳：改革历程》 | [TXT格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/zzy_gglc.txt) | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/zzy_gglc.pdf) | - |
-| 《九评共产党》 | [TXT格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/9ping.txt) | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/9ping.pdf) | [EPUB格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/9ping.epub) |
 | 《解体党文化》 | [TXT格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/jtdwh.txt) | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/jtdwh.pdf) | [EPUB格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/jtdwh.epub) |
 | 《共产主义的终极目的》 | [TXT格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/gczy.txt) | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/gczy.pdf) | [EPUB格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/gczy.epub) |
 | 《万人和平上访真相》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/425.pdf) | - |
 | 《1400例谎言的背后》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/1400zx.pdf) | - |
 | 《活摘：无法掩盖的罪证》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/organ.pdf) | - |
 | 《天安门自焚伪案揭秘》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/zifen.pdf) | - |
-| 《二十一世纪的古拉格真相》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/glg.pdf) | [EPUB格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/glg.epub) |
-| 《明慧二十周年报告》 | - | - | [EPUB格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/mh-20.epub) |
 | 《中共意识形态之理性批判》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/zgysxt.pdf) | [EPUB格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/zgysxt.epub) |
 | 《中国的和平转型之路》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/hpzx.pdf) | - |
 | 《中国六四真相》 | - | [PDF格式](https://cdn.jsdelivr.net/gh/gfw-breaker/books/resources/64.pdf) | - |
